@@ -1,0 +1,4 @@
+Ejercicios desde el 1 hasta el 18 incluido en clase TP2
+Ejercicio 19 clases Calculo y OperacionMatematica
+Ejercicio 20 clases Fraccion y OperacionesFraccion
+Ejercicios 21, 22, 23 en clase TP2
